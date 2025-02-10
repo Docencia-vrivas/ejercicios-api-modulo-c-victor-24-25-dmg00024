@@ -3,6 +3,8 @@
 # Plantilla para la documentación de la asignatura Aprendizaje y Enseñanza de las materias de Informática I
 ## Apartado C: Herramientas para el autoaprendizaje y el aprendizaje colaborativo
 
+probando...
+
 Esta es la plantilla básica desde la que podrás documentar los ejercicios que vayas realizando.
 
 * Recuerda que simplemente debes incluir las capturas de pantalla que muestren que has realizado cada uno de los ejercicios.
